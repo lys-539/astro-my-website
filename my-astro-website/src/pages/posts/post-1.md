@@ -9,7 +9,7 @@ image:
 tags: ["astro", "blogging", "learning in public"]
 ---
 
-[原神](.)
+[原神](javascript:history.back())
 
 # 我的第一篇博客文章
 
